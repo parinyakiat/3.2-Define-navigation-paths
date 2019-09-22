@@ -7,8 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a50159cf-5947-4a1a-876b-13b11df6bd42" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/option_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/navEditor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/navEditor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/TitleFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/TitleFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/navigation/navigation.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,11 +38,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
           <provider selected="true" editor-type-id="text-editor" />
@@ -68,10 +66,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/option_menu.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+              <folding>
+                <element signature="e#177#192#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/MainActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+            <state relative-caret-position="344">
+              <caret line="37" column="39" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="39" />
               <folding>
                 <element signature="e#657#843#0" expanded="true" />
               </folding>
@@ -103,10 +114,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/TitleFragment.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="525">
+              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
               <folding>
-                <element signature="e#41#397#0" expanded="true" />
+                <element signature="e#41#384#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,6 +148,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="navigationResourceFile" />
+        <option value="resourceFile" />
       </list>
     </option>
   </component>
@@ -150,10 +162,11 @@
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameFragment.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/res/navigation/navigation.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameOverFragment.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/MainActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/navigation/navigation.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/option_menu.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/TitleFragment.kt" />
       </list>
     </option>
@@ -204,6 +217,12 @@
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
               <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="AndroidTrivia-Starter" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="menu" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
             <path>
               <item name="AndroidTrivia-Starter" type="1abcf292:AndroidViewProjectNode" />
@@ -396,14 +415,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/navigation/navigation.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="33" column="41" lean-forward="true" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="nav-designer" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameOverFragment.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -419,10 +430,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/navigation/navigation.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="33" column="41" lean-forward="true" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="nav-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/option_menu.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#177#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/MainActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="344">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="39" />
           <folding>
             <element signature="e#657#843#0" expanded="true" />
           </folding>
@@ -431,10 +461,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/TitleFragment.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="525">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
-            <element signature="e#41#397#0" expanded="true" />
+            <element signature="e#41#384#0" expanded="true" />
           </folding>
         </state>
       </provider>
